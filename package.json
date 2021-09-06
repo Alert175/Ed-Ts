@@ -1,0 +1,18 @@
+{
+  "name": "ed-ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alert175/Ed-Ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alert175/Ed-Ts/issues"
+  },
+  "homepage": "https://github.com/Alert175/Ed-Ts#readme"
+}
